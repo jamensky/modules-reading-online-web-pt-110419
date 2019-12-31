@@ -5,5 +5,3 @@ module MetaDancing
   end
 
 end
-
-
